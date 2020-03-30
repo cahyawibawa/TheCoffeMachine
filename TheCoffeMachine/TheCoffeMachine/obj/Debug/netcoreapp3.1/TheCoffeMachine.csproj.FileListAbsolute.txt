@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\Tugas\TheCoffeMachine\TheCoffeMachine\bin\Debug\netcoreapp3.1\TheCoffeMachine.exe
+C:\Users\ASUS\Documents\Tugas\TheCoffeMachine\TheCoffeMachine\bin\Debug\netcoreapp3.1\TheCoffeMachine.deps.json
+C:\Users\ASUS\Documents\Tugas\TheCoffeMachine\TheCoffeMachine\bin\Debug\netcoreapp3.1\TheCoffeMachine.runtimeconfig.json
+C:\Users\ASUS\Documents\Tugas\TheCoffeMachine\TheCoffeMachine\bin\Debug\netcoreapp3.1\TheCoffeMachine.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\Tugas\TheCoffeMachine\TheCoffeMachine\bin\Debug\netcoreapp3.1\TheCoffeMachine.dll
+C:\Users\ASUS\Documents\Tugas\TheCoffeMachine\TheCoffeMachine\bin\Debug\netcoreapp3.1\TheCoffeMachine.pdb
+C:\Users\ASUS\Documents\Tugas\TheCoffeMachine\TheCoffeMachine\obj\Debug\netcoreapp3.1\TheCoffeMachine.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Tugas\TheCoffeMachine\TheCoffeMachine\obj\Debug\netcoreapp3.1\TheCoffeMachine.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Tugas\TheCoffeMachine\TheCoffeMachine\obj\Debug\netcoreapp3.1\TheCoffeMachine.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Tugas\TheCoffeMachine\TheCoffeMachine\obj\Debug\netcoreapp3.1\TheCoffeMachine.dll
+C:\Users\ASUS\Documents\Tugas\TheCoffeMachine\TheCoffeMachine\obj\Debug\netcoreapp3.1\TheCoffeMachine.pdb
